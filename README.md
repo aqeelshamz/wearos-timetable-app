@@ -1,16 +1,7 @@
-# timetable
+# TimeTable App (Wear OS)
 
-A new Flutter project.
+Flutter TimeTable App designed for Wear OS
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![monday](https://user-images.githubusercontent.com/69390743/205475547-f05517c8-5750-446f-9e48-0dab947c03bb.png)
+![monday2](https://user-images.githubusercontent.com/69390743/205475549-75d0d0a1-b479-49af-b16a-5de14aca23c0.png)
+![sunday](https://user-images.githubusercontent.com/69390743/205475550-5964d232-e298-4bf4-921d-92e59314a2ae.png)
